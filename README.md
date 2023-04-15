@@ -1,3 +1,8 @@
+# Quick start
+```
+docker run -d --rm --name incognito -p 80:8080 ghcr.io/rioctos/incognito-service:release
+```
+
 # NOTICE:
 
 You CANNOT deploy to Netifly, GitHub Pages, or Cloudflare pages. [Read more here](https://amethystnetwork-dev.github.io/docs/static-hosts).
