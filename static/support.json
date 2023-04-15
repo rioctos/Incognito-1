@@ -1,7 +1,11 @@
 [
     {
+        "question": "Who is hosting this website and is it laggy",
+        "answer": "Rioctos Incognito Service are hosted under <a href="https://rioctos.com">Rioctos.com</a>"
+    },
+    {
         "question": "A page is not functioning or loading on the proxy",
-        "answer": "Our web servers are either under really high load, or the web page you tried accessing is not currently supported."
+        "answer": "Check our <a href="https://status.rioctos.com">status page</a> first. Our web servers (Rioctos Incognito Service) are either under really high load, or the web page you tried accessing is not currently supported."
     },
     {
         "question": "How so I get back to the main page after opening the proxy",
@@ -9,10 +13,10 @@
     },
     {
         "question": "Is my information secure",
-        "answer": "Incognito, in its unmodified state from its <a href=\"https://github.com/amethystnetwork-dev/Incognito\">GitHub repo</a>, does not collect your data. However, users can host thier own instance of this website that could have been modified to collect user data"
+        "answer": "Incognito Service, hoster by Rioctos, does not collect your data."
     },
     {
         "question": "Why is GeForce Now is responding with \"403 Access Denied\"",
-        "answer": "At the moment, too many people are using GeForce Now on our servers. Try again later."
+        "answer": "At the moment, there might be too many people are using GeForce Now on our servers. Try again later."
     }
 ]
